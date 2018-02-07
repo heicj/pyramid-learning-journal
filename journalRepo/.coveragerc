@@ -1,0 +1,3 @@
+[run]
+source = journalRepo
+omit = journalRepo/test*
